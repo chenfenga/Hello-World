@@ -3,6 +3,7 @@
 {
     printf("the first");
     printf("hello world!\n");
+    printf("my name is cf !\n");
     return 0;
 }
 
